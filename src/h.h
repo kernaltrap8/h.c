@@ -9,7 +9,7 @@
 #define hhhhhhhhh ;
 #define hhhhhhhhhh printf
 #define hhhhhhhhhhh return
-#define hhhhhhhhhhhh on_hxit
+#define hhhhhhhhhhhh on_exit
 #define hhhhhhhhhhhhh [
 #define hhhhhhhhhhhhhh ]
 #define hhhhhhhhhhhhhhh 0
